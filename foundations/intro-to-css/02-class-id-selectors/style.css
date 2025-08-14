@@ -1,0 +1,21 @@
+.adjust{
+    background-color: red;
+    color: black;
+    font-weight: 400;
+}
+
+
+#row2{
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 30px;
+}
+
+.green{
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
